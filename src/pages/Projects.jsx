@@ -63,7 +63,7 @@ export default function Projects() {
               Role: UI/UX - Designed, wireframed, programmed and user-tested the interface itself.
             </p>
             <div className="project-links">
-              <a href="https://hathacker5.github.io/DoMeAFlavor/" target="_blank">Live Site</a>
+              <a href="https://kevinyu4.github.io/DoMeAFlavor/" target="_blank">Live Site</a>
               <a href="https://github.com/hathacker5/DoMeAFlavor" target="_blank">GitHub</a>
             </div>
           </div>
