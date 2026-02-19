@@ -68,6 +68,22 @@ export default function Projects() {
             </div>
           </div>
 
+
+         <div className="project-card">
+            <h3>Students Demand Action</h3>
+            <span className="project-role">
+             Social Media Marketing * Graphic Designer
+            </span>
+            <p>
+             Designs I've made for the Students Demand Action at UTexas's instagram. 
+            </p>
+            <p>
+              Role: Graphic Designer - Designed instagram posts that match SDA's brand standard and were friendly to read. 
+            </p>
+            <div className="project-links">
+              <a href="https://www.canva.com/design/DAHBuvWO5zU/TIZj95JxSwcZ3-SlSSxLRw/view?utm_content=DAHBuvWO5zU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5240df3159" target="_blank">Examples</a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
