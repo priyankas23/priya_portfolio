@@ -7,6 +7,14 @@ export default function Experience() {
         {/* WORK EXPERIENCE */}
         <section className="exp-section">
           <h2>Work Experience</h2>
+           <div className="exp-item">
+            <h3>Undergraduate Research Assistant</h3>
+            <span>People, Data and Algorithms Lab at UT• Jan 2026–Present</span>
+            <ul>
+              <li>Working on a study involving users' attitudes regarding data privacy and AI training </li>
+              <li>Human Computer Interaction centered </li> 
+            </ul>
+          </div>
 
           <div className="exp-item">
             <h3>Scene Artist and Programmer</h3>
