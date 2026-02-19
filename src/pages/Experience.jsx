@@ -80,7 +80,6 @@ export default function Experience() {
      <div className="semester">
       <h4>Spring 2026</h4>
       <ul>
-        <li>CS 354 - Computer Graphics</li>
         <li>CS 353 - Theory of Computation</li>
         <li>JPN 611D - Intermediate Japanese</li>
       </ul>
