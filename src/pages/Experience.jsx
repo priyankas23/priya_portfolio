@@ -18,7 +18,7 @@ export default function Experience() {
 
           <div className="exp-item">
             <h3>Scene Artist and Programmer</h3>
-            <span>UT Austin JapanLab • Jan 2026–Present</span>
+            <span>UT Austin JapanLab • Jan 2026 - April 2026</span>
             <ul>
               <li>On the <a href="https://www.utjapanlab.com/nagasaki"> A Living Map: Rebuilding Treaty Port Nagasaki </a> project </li>
               <li>Working with narrative and modeling teams to construct maps of the ports of Nagasaki inside the game engine.</li>
@@ -76,6 +76,17 @@ export default function Experience() {
   <h2>Relevant Coursework</h2>
 
   <div className="coursework">
+
+     <div className="semester">
+      <h4>Fall 2026 (tentative)</h4>
+      <ul>
+        <li>CS 388 - Graph Theory & Combinatorics (Graduate) </li>
+        <li>CS 386 - Wireless Networking (graduate)</li>
+        <li>CS 373 - Software Engineering</li>
+        <li>PA 325 - AI, Tech, Innovation Policy </li>
+        <li>JPN 317C - Japanese Grammar, Composition, and Conversation </li>
+      </ul>
+    </div>
 
      <div className="semester">
       <h4>Spring 2026</h4>
