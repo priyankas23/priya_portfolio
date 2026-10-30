@@ -21,7 +21,7 @@ export default function Experience() {
             <h3>Undergraduate Course Assistant</h3>
             <span>CS 398T - Supervised Teaching in Computer Science• Aug 2026 - Dec 2026</span>
             <ul>
-              <li>- basic ta duties for a graduate level course on teaching sup, including grading and providing feedback on student teaching</li>
+              <li>- basic ta duties for a graduate level course on teaching, including grading and providing feedback on student teaching</li>
             </ul>
           </div>
 
