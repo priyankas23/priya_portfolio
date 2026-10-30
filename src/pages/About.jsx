@@ -30,7 +30,7 @@ export default function About() {
           </p>
 
 
-          <h1> The Fun Section (countries and concerts!) </h1>
+          <h1> The Fun Section </h1>
           <div className="about-lists">
             <details>
               <summary>Countries I’ve visited</summary>
