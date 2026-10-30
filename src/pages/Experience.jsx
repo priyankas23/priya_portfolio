@@ -12,7 +12,26 @@ export default function Experience() {
             <span>People, Data and Algorithms Lab at UT• Jan 2026–Present</span>
             <ul>
               <li>Working on a study involving users' attitudes regarding data privacy and AI training </li>
+              <li>co-authored a publication under review for CHI 2027</li>
               <li>Human Computer Interaction centered </li> 
+            </ul>
+          </div>
+
+          <div className="exp-item">
+            <h3>Undergraduate Course Assistant</h3>
+            <span>CS 398T - Supervised Teaching in Computer Science• Aug 2026 - Dec 2026</span>
+            <ul>
+              <li>- basic ta duties for a graduate level course on teaching sup, including grading and providing feedback on student teaching</li>
+            </ul>
+          </div>
+
+          <div className="exp-item">
+            <h3>Software Engineering Intern</h3>
+            <span>American Express• June 2026 - Aug 2026</span>
+            <ul>
+              <li>- worked on the Mobile SRE team for the Amex app (Android)</li>
+              <li>- built a Kotlin REST API for site-reliability tooling, replacing manual crash/login-error monitoring on Sentry Dashboards for identity ops teams.</li>
+              <li>- developed a proof of concept for an agent that uses Sentry telemetry data to monitor platform health and plan and implement fixes with root cause analysis and SRE best practices on the Amex + Amex Travel and Lifestyle apps (Android + iOS). Demoed in front of the EVP for Global Infrastructure.</li>
             </ul>
           </div>
 
@@ -67,8 +86,8 @@ export default function Experience() {
 
           <div className="exp-item">
             <h3>University of Texas at Austin</h3>
-            <span>B.S. Computer Science, Japanese Language Minor</span>
-            <p>Expected Graduation: May 2027</p>
+            <span>B.S. + M.S. Computer Science, Japanese Language Minor</span>
+            <p>Expected Graduation: May 2028</p>
           </div>
         </section>
 
@@ -78,12 +97,11 @@ export default function Experience() {
   <div className="coursework">
 
      <div className="semester">
-      <h4>Fall 2026 (tentative)</h4>
+      <h4>Fall 2026</h4>
       <ul>
         <li>CS 388 - Graph Theory & Combinatorics (Graduate) </li>
-        <li>CS 386 - Wireless Networking (graduate)</li>
-        <li>CS 373 - Software Engineering</li>
-        <li>PA 325 - AI, Tech, Innovation Policy </li>
+        <li>CS 395T - AI Alignment Theory (Graduate)</li>
+        <li>CS 343 - Artificial Intelligence</li>
         <li>JPN 317C - Japanese Grammar, Composition, and Conversation </li>
       </ul>
     </div>

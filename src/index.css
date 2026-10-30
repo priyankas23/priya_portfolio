@@ -472,6 +472,60 @@ h1, h2, h3, .nav-logo {
   line-height: 1.8;
 }
 
+.about-lists {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0 1.5rem;
+}
+
+.about-lists details {
+  align-self: start;
+  border: 1px solid rgba(228, 217, 255, 0.2);
+  border-radius: 12px;
+  background: rgba(228, 217, 255, 0.06);
+  padding: 0.8rem 1rem;
+}
+
+.about-lists summary {
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.95rem;
+  list-style: none;
+}
+
+.about-lists summary::-webkit-details-marker {
+  display: none;
+}
+
+.about-lists summary::after {
+  content: "+";
+  float: right;
+  margin-left: 0.5rem;
+  opacity: 0.8;
+}
+
+.about-lists details[open] summary::after {
+  content: "−";
+}
+
+.about-lists ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  margin: 0.75rem 0 0;
+  padding: 0;
+}
+
+.about-lists li {
+  border: 1px solid rgba(228, 217, 255, 0.18);
+  border-radius: 999px;
+  padding: 0.25rem 0.65rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
 /* Contact stars */
 .contact-stars {
   margin-top: 2rem;
@@ -624,6 +678,12 @@ h1, h2, h3, .nav-logo {
   opacity: 0.8;
   font-style: italic;
   text-align: center;
+}
+
+@media (max-width: 640px) {
+  .about-lists {
+    grid-template-columns: 1fr;
+  }
 }
 
 .projects h1 {
