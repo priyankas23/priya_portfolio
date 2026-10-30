@@ -23,9 +23,9 @@ export default function About() {
 
           <p>
             I'm a 4th year CS major working through the integrated BS/MS program at UT Austin, with a minor in Japanese Language.
-
+            <br />
             My research and industry interests are centered entirely on Human-Computer Interaction, Human-AI Interaction, Accessible Technology and Social Computing. I care a lot about making sure the technology we design benefits everyone, not just the normalized user. I currently help out Dr. Hanlin Li with Human-Computer Interaction research on the social side with work on track for CHI and CSCW 2027, and I intend on writing my Master's thesis on Human-AI Interaction when it comes to invisible disabilities.
-
+            <br />
             When I'm not in the classroom, you can find me practicing Japanese, listening to k-pop and j-pop, watching anime, reading, journaling, ice skating, or playing video games. I also am an avid traveler and concert goer! I've been to a lot of concerts and countries, and I hope to continue exploring the world.
           </p>
 
