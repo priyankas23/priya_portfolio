@@ -185,8 +185,7 @@ export default function Experience() {
                   <strong>English</strong> — Native
                 </li>
                 <li>
-                  <strong>Japanese</strong> — Conversational (JLPT N5–N4 level, preparing for N3)
-                </li>
+                  <strong>Japanese</strong> — Limited Working Proficiency (high N4, low N3)
               </ul>
             </div>
           </div>
