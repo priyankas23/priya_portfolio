@@ -67,7 +67,7 @@ export default function About() {
                 {<li> Stray Kids (part 2) (2025) </li>}
                 {<li> Ado (2025) </li>}
                 {<li> The Rose (part 2) (2025) </li>}
-                {<li> Seventee x2 (2025) (vip + best concert so far!) </li>}
+                {<li> Seventeen x2 (2025) (vip + best concert so far!) </li>}
                 {<li> Del Water Gap (2026) </li>}
                 {<li> NMIXX (2026) </li>}
                 {<li> Twice x2 (2026)</li>}
