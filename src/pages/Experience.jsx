@@ -186,6 +186,7 @@ export default function Experience() {
                 </li>
                 <li>
                   <strong>Japanese</strong> — Limited Working Proficiency (high N4, low N3)
+                </li>
               </ul>
             </div>
           </div>
