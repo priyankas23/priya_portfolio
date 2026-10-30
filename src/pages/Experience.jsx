@@ -21,7 +21,7 @@ export default function Experience() {
             <h3>Undergraduate Course Assistant</h3>
             <span>CS 398T - Supervised Teaching in Computer Science• Aug 2026 - Dec 2026</span>
             <ul>
-              <li>- basic ta duties for a graduate level course on teaching, including grading and providing feedback on student teaching</li>
+              <li> basic ta duties for a graduate level course on teaching, including grading and providing feedback on student teaching</li>
             </ul>
           </div>
 
@@ -29,9 +29,9 @@ export default function Experience() {
             <h3>Software Engineering Intern</h3>
             <span>American Express• June 2026 - Aug 2026</span>
             <ul>
-              <li>- worked on the Mobile SRE team for the Amex app (Android)</li>
-              <li>- built a Kotlin REST API for site-reliability tooling, replacing manual crash/login-error monitoring on Sentry Dashboards for identity ops teams.</li>
-              <li>- developed a proof of concept for an agent that uses Sentry telemetry data to monitor platform health and plan and implement fixes with root cause analysis and SRE best practices on the Amex + Amex Travel and Lifestyle apps (Android + iOS). Demoed in front of the EVP for Global Infrastructure.</li>
+              <li> worked on the Mobile SRE team for the Amex app (Android)</li>
+              <li> built a Kotlin REST API for site-reliability tooling, replacing manual crash/login-error monitoring on Sentry Dashboards for identity ops teams.</li>
+              <li> developed a proof of concept for an agent that uses Sentry telemetry data to monitor platform health and plan and implement fixes with root cause analysis and SRE best practices on the Amex + Amex Travel and Lifestyle apps (Android + iOS). Demoed in front of the EVP for Global Infrastructure.</li>
             </ul>
           </div>
 
