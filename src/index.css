@@ -432,7 +432,7 @@ h1, h2, h3, .nav-logo {
   display: grid;
   grid-template-columns: 260px 1fr;
   gap: 3rem;
-  align-items: center;
+  align-items: start;
 }
 
 /* Photo orbit */
