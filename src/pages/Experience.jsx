@@ -95,6 +95,17 @@ export default function Experience() {
   <h2>Relevant Coursework</h2>
 
   <div className="coursework">
+    
+    <div className="semester">
+      <h4>Spring 2027 (Expected)</h4>
+      <ul>
+        <li>CS 380D - Distributed Computing I (Graduate)</li>
+        <li> CS 381S - Spoken Language Technology (Graduate)</li>
+        <li> CS 349 - Contemporary Issues in Computer Science</li>
+        <li> JPN 320K - Reading in Modern Japanese I </li>
+        <li> JPN 325K - Advanced Japanese Conversation I </li>
+      </ul>
+    </div>
 
      <div className="semester">
       <h4>Fall 2026</h4>
