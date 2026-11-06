@@ -12,7 +12,7 @@ export default function Experience() {
             <span>People, Data and Algorithms Lab at UT• Jan 2026–Present</span>
             <ul>
               <li>Working on a study involving users' attitudes regarding data privacy and AI training </li>
-              <li>co-authored a publication under review for CHI 2027</li>
+              <li> co-authored a publication regarding AI summarization in content creation </li>
               <li>Human Computer Interaction centered </li> 
             </ul>
           </div>
